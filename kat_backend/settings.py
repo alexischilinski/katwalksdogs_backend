@@ -46,6 +46,7 @@ INSTALLED_APPS = [
     'kat_walks_dogs',
     'rest_framework',
     'corsheaders',
+    'environ',
 ]
 
 MIDDLEWARE = [
